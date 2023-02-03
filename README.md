@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinh1203&show_icons=true&theme=algolia)
-https://github.com/users/Thinh1203/achievements/yolo
+![Anurag's GitHub stats](https://github.com/users/Thinh1203/achievements/yolo)
 <!--
 **Thinh1203/Thinh1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
