@@ -1,6 +1,6 @@
 ### <p align="center"><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="100"><!--&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hi there 👋👋👋 -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinh1203&show_icons=true&theme=highcontrast) 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinh1203&show_icons=true&theme=highcontrast) 
  <p align="center">
 <img height="177" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinh1203&layout=compact&theme=dark" />
