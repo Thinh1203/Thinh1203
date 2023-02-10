@@ -5,6 +5,7 @@
 <p align="center">
   
   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=Thinh1203&count_private=true&show_icons=true&theme=highcontrast" alt="zcrossover's Github Stats" />
+ </br>
 <img height="186" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinh1203&layout=compact&theme=dark" />
 </p>
