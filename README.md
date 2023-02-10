@@ -1,9 +1,7 @@
 ### <p align="center"><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="100"><!--&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hi there 👋👋👋 -->
-<!--
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinh1203&show_icons=true&theme=highcontrast) -->
-<p align="center">
-    <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=Thinh1203&count_private=true&show_icons=true&theme=highcontrast" alt="Thinh1203's Github Stats" />
-   <img height="186" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinh1203&layout=compact&theme=dark" />
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinh1203&show_icons=true&theme=highcontrast) 
+
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ 
 <p align="center">
 <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
