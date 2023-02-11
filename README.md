@@ -6,7 +6,7 @@
  ### 🚀 Quick Stats ![](https://komarev.com/ghpvc/?username=Thinh1203&color=green)
   
 <p align="left"> 
-  <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Thinh1203&count_private=true&show_icons=true&theme=highcontrast" alt="zcrossover's Github Stats" />
+  <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=Thinh1203&count_private=true&show_icons=true&theme=highcontrast" alt="zcrossover's Github Stats" />
 <img height="186" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinh1203&layout=compact&theme=dark" />
 </p>
