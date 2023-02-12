@@ -10,6 +10,7 @@
 <img height="186" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinh1203&layout=compact&theme=dark" />
 </p>
+
 ### 💻 Languages and Tools 🛠
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
