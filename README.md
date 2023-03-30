@@ -24,8 +24,10 @@
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a> 
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40" height="40" alt="tailwindcss" />
-  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="40" height="40" alt="tailwindcss" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40" height="40" alt="vue" />
+  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="40" height="40" alt="xampp" />
+ <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" height="40" alt="tailwindcss" />
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ 
 <p align="center">
 <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
