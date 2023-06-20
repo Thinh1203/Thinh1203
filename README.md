@@ -19,7 +19,7 @@
 ### 🙆‍♂️ Overview
 - 🔭 I’m currently studying at **CTU 👨‍🎓**
 - 🌱 I’m currently learning **Javascript 😎**
-- 📫 How to reach me: **thinhquach1203@gmail.com**
+<!--- 📫 How to reach me: **thinhquach1203@gmail.com** -->
 
 ### 💻 Languages and Tools 🛠
 
