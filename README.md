@@ -18,7 +18,7 @@
 
 ### 🙆‍♂️ Overview
 - 🔭 I’m currently studying at **CTU 👨‍🎓**
-- 🌱 I’m currently learning **Javascript 😎**
+- 🌱 I’m currently learning **TypeScript 😎**
 <!--- 📫 How to reach me: **thinhquach1203@gmail.com** -->
 
 ### 💻 Languages and Tools 🛠
@@ -28,16 +28,18 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Php" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a> 
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40" height="40" alt="vue" />
-  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="40" height="40" alt="xampp" />
- <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" height="40" alt="tailwindcss" />
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a><img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" width="40" height="40" alt="NextJS" /></a>
+  <a><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40" height="40" alt="VueJS" /></a>
+  <a><img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="40" height="40" alt="Xampp" /> </a>
+ <a><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" height="40" alt="Tailwindcss" /></a>
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> </a>
+  <a class="id"><img src="https://seeklogo.com/images/M/mantine-logo-1662121904-seeklogo.com.png" width="100" height="40" alt="Mantine" /></a>
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ 
 <p align="center">
 <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
@@ -72,7 +74,10 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
 </div>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Thinh1203/count.svg" />
+</p>
 
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <!--
