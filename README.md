@@ -18,7 +18,7 @@
 
 ### 🙆‍♂️ Overview
 - 🔭 I graduated from **CTU 👨‍🎓**
-- 🌱 I’m currently learning **TypeScript 😎**
+- 🌱 I’m currently learning **Spring Boot 😎**
 <!--- 📫 How to reach me: **thinhquach1203@gmail.com** -->
 
 ### 💻 Languages and Tools 🛠
