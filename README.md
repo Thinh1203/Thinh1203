@@ -12,7 +12,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=1000&width=435&lines=Hello+world!;I+am+Thinh+Quach;Nice+to+meet+you" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=1000&width=435&lines=Hello+world!;I+am+Thinh+312;Nice+to+meet+you" alt="Typing SVG">
     </a>
 </div>
 <p align="center"><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="100">
